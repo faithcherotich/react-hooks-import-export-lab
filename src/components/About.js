@@ -1,5 +1,5 @@
 import React from "react";
-import { username,city,image } from "../data/user.js";
+import { image } from "../data/user.js";
 function About() {
   return (
     <div id="about">
